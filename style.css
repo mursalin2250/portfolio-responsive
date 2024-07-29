@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Heebo;
+}
+p{
+    margin: 0px !important;
+    padding: 0px !important;
+}
+img{
+    max-width: 100%;
+}
+body html{
+    overflow: hidden;
+}
+.navbar-nav a{
+    font-weight: 500;
+    text-transform: capitalize;
+}
+.header h1{
+    font-weight: 700;
+}
+hr{
+    background-color: #E0E0E0;
+}
+footer a{
+    font-size: 30px;
+    color: #21243D;
+}
